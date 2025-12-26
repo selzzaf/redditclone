@@ -193,10 +193,6 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- Built as a learning project for full-stack development
+Selzzaf
+**Github:** @selzzaf
 
-## 🙏 Acknowledgments
-
-- Reddit for inspiration
-- Chakra UI for the beautiful component library
-- The React and Node.js communities 
