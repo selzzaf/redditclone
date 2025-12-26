@@ -187,12 +187,14 @@ npm test
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the ISC License.
-
 ## 👥 Authors
 
 Selzzaf
 **Github:** @selzzaf
+
+## 📄 License
+
+This project is licensed under the ISC License.
+
+
 
